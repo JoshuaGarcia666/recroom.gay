@@ -1,0 +1,18 @@
+.Vis {
+  visibility: visible;
+}
+
+.Invis {
+  visibility: hidden;
+}
+
+a {
+  color: inherit;       /* keep normal text color */
+  text-decoration: none; /* remove underline */
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
+  text-decoration-color: red; /* red underline on hover */
+}
+
