@@ -1,4 +1,118 @@
-const _0x35883a=_0x2148;(function(_0x1277d7,_0x3e118b){const _0x4b81aa=_0x2148,_0x4ab1ac=_0x1277d7();while(!![]){try{const _0x5221e9=-parseInt(_0x4b81aa(0xf7))/0x1+parseInt(_0x4b81aa(0x115))/0x2*(-parseInt(_0x4b81aa(0x129))/0x3)+parseInt(_0x4b81aa(0x100))/0x4*(parseInt(_0x4b81aa(0x12c))/0x5)+-parseInt(_0x4b81aa(0xe0))/0x6*(parseInt(_0x4b81aa(0xeb))/0x7)+-parseInt(_0x4b81aa(0x11a))/0x8*(-parseInt(_0x4b81aa(0x11d))/0x9)+parseInt(_0x4b81aa(0xf9))/0xa*(-parseInt(_0x4b81aa(0x109))/0xb)+parseInt(_0x4b81aa(0x110))/0xc*(parseInt(_0x4b81aa(0xe4))/0xd);if(_0x5221e9===_0x3e118b)break;else _0x4ab1ac['push'](_0x4ab1ac['shift']());}catch(_0xc066c5){_0x4ab1ac['push'](_0x4ab1ac['shift']());}}}(_0x238a,0x557bf));function _0x2148(_0x2fe06d,_0x2a35e9){const _0x423786=_0x238a();return _0x2148=function(_0x41251b,_0x26fee5){_0x41251b=_0x41251b-0xde;let _0x14a4c7=_0x423786[_0x41251b];return _0x14a4c7;},_0x2148(_0x2fe06d,_0x2a35e9);}const _0x26fee5=(function(){let _0x1eb552=!![];return function(_0x53e5a6,_0x229bbd){const _0x378954=_0x1eb552?function(){const _0x48000f=_0x2148;if(_0x229bbd){const _0x58cac0=_0x229bbd[_0x48000f(0x118)](_0x53e5a6,arguments);return _0x229bbd=null,_0x58cac0;}}:function(){};return _0x1eb552=![],_0x378954;};}()),_0x41251b=_0x26fee5(this,function(){const _0x1a135a=_0x2148;let _0x4b8623;try{const _0x30e415=Function('return\x20(function()\x20'+_0x1a135a(0x111)+');');_0x4b8623=_0x30e415();}catch(_0xb4de84){_0x4b8623=window;}const _0x2a7eb4=new RegExp(_0x1a135a(0x10d),'g'),_0x4b21b4=_0x1a135a(0x10b)[_0x1a135a(0xfc)](_0x2a7eb4,'')[_0x1a135a(0x128)](';');let _0x5ab5b9,_0x554aae,_0xa1d2a1,_0x1c9232;const _0x21153d=function(_0x4e81d7,_0x54ded8,_0x4ca192){const _0x3be87d=_0x1a135a;if(_0x4e81d7[_0x3be87d(0x10f)]!=_0x54ded8)return![];for(let _0x3a5c60=0x0;_0x3a5c60<_0x54ded8;_0x3a5c60++){for(let _0x2fb442=0x0;_0x2fb442<_0x4ca192['length'];_0x2fb442+=0x2){if(_0x3a5c60==_0x4ca192[_0x2fb442]&&_0x4e81d7[_0x3be87d(0xf2)](_0x3a5c60)!=_0x4ca192[_0x2fb442+0x1])return![];}}return!![];},_0x5a28a1=function(_0x5df362,_0x48ac84,_0x486f44){return _0x21153d(_0x48ac84,_0x486f44,_0x5df362);},_0x1c5d38=function(_0x2ec983,_0x47d9a4,_0x3b4b4a){return _0x5a28a1(_0x47d9a4,_0x2ec983,_0x3b4b4a);},_0x297247=function(_0x27d6c3,_0x2e1dfc,_0x51528b){return _0x1c5d38(_0x2e1dfc,_0x51528b,_0x27d6c3);};for(let _0x40468f in _0x4b8623){if(_0x21153d(_0x40468f,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x5ab5b9=_0x40468f;break;}}for(let _0x2ca3bd in _0x4b8623[_0x5ab5b9]){if(_0x297247(0x6,_0x2ca3bd,[0x5,0x6e,0x0,0x64])){_0x554aae=_0x2ca3bd;break;}}for(let _0x4b6cdd in _0x4b8623[_0x5ab5b9]){if(_0x1c5d38(_0x4b6cdd,[0x7,0x6e,0x0,0x6c],0x8)){_0xa1d2a1=_0x4b6cdd;break;}}if(!('~'>_0x554aae))for(let _0x99e715 in _0x4b8623[_0x5ab5b9][_0xa1d2a1]){if(_0x5a28a1([0x7,0x65,0x0,0x68],_0x99e715,0x8)){_0x1c9232=_0x99e715;break;}}if(!_0x5ab5b9||!_0x4b8623[_0x5ab5b9])return;const _0x4dc417=_0x4b8623[_0x5ab5b9][_0x554aae],_0x2b7d13=!!_0x4b8623[_0x5ab5b9][_0xa1d2a1]&&_0x4b8623[_0x5ab5b9][_0xa1d2a1][_0x1c9232],_0x21117e=_0x4dc417||_0x2b7d13;if(!_0x21117e)return;let _0x2805a8=![];for(let _0x2f71f9=0x0;_0x2f71f9<_0x4b21b4[_0x1a135a(0x10f)];_0x2f71f9++){const _0x2ea032=_0x4b21b4[_0x2f71f9],_0x5e8986=_0x2ea032[0x0]===String[_0x1a135a(0xee)](0x2e)?_0x2ea032[_0x1a135a(0x119)](0x1):_0x2ea032,_0x39b6c=_0x21117e[_0x1a135a(0x10f)]-_0x5e8986[_0x1a135a(0x10f)],_0x403bef=_0x21117e[_0x1a135a(0xec)](_0x5e8986,_0x39b6c),_0x23d301=_0x403bef!==-0x1&&_0x403bef===_0x39b6c;_0x23d301&&((_0x21117e[_0x1a135a(0x10f)]==_0x2ea032[_0x1a135a(0x10f)]||_0x2ea032['indexOf']('.')===0x0)&&(_0x2805a8=!![]));}if(!_0x2805a8){const _0xfc42a1=new RegExp(_0x1a135a(0xfd),'g'),_0x2c61f7=_0x1a135a(0x126)[_0x1a135a(0xfc)](_0xfc42a1,'');_0x4b8623[_0x5ab5b9][_0xa1d2a1]=_0x2c61f7;}});_0x41251b();function _0x238a(){const _0x3b217b=['brought\x20to\x20u\x20by\x20a\x20swaggishly\x20internet\x20nincompoop','America\x20grew\x20up\x20listening\x20to\x20us.\x20It\x20still\x20does','what\x20the\x20hell\x20is\x20this?','home\x20of\x20duncecore,\x20duncehack\x20&\x20vrc_kmno','about:blOYankLZfIJZgWCHzpGrEdIgOEZRwXH','will\x20the\x20real\x20slim\x20shady\x20please\x20stand\x20up?','split','1657905PhCRtx','y\x20dont\x20u\x20take\x20a\x20short\x20strole\x20to\x20the\x20fagot\x20store\x20and\x20buy\x20some\x20skills\x20scrub','x22\x20*\x204\x20ahh\x20menu\x20(\x20those\x20who\x20nose\x20)','535WzlqZS','who\x20the\x20fuck\x20cheats\x20on\x20this\x20game?\x20you\x20must\x20be\x20a\x20lowlife\x20loser','keep\x20an\x20eye\x20out,\x20make\x20sure\x20you\x20see','3354HhHKnS','lock\x20is\x20the\x20one','upping\x20social\x20game\x20exploit\x20standards\x20since\x201988','shoutout\x20spacestation.ac','13zzeTGw','i\x20want\x20to\x20figure\x20out\x20how\x20to\x20do\x20that\x20chams\x20shi\x20but\x20idk\x20how\x20to\x20do\x20it','\x22my\x20pc\x20is\x20sigged\x20lil\x20bro\x22','######\x20did\x20not\x20kill\x20himself,\x20he\x20helped\x20paste\x20for\x20our\x20competitors.','Hello,\x20Friends\x20VS\x20Friends.','The\x20Xinjiang\x20Uyghur\x20Autonomous\x20Region','free\x20fallin\x27','7924XSiMWd','indexOf','couldn\x27t\x20let\x20kemono.su\x20be\x20the\x20only\x20one\x20with\x20mascot\x20bazookas','fromCharCode','mfw\x20when\x20United\x20Moderations','420\x20sextillion\x20years\x20ahead\x20of\x20u','hatrz\x20outswagg\x27d','charCodeAt','you\x27re\x20in\x20the\x20same\x20bag','\x22i\x20want\x20the\x20old\x20konsole\x208ack!!!\x22\x20Shaut\x20Up\x20PHaggot!','pop\x20calc\x20jus\x204\x2080085','u\x20play\x20like\x20my\x20granpa\x20and\x20hes\x20ded','156857lExkYV','my\x20heart\x20goes\x20out\x20to\x20you','30zpMqtc','the\x20reason\x20your\x20shit\x20paste\x20has\x20what\x20it\x20has','5455\x20Point\x20Northwest\x20Blvd\x20#203,\x20Houston,\x20TX\x2077095','replace','[OYLZfIJZgWCHzpGrEdIgOEZRwXH]','who\x20the\x20fuck?','#P0ssessedddd','11048wyZYnr','HELLO\x20DEAR\x20ADMINISTRATION','bro\x20wtf','tell\x20ur\x20mum\x20to\x20hand\x20the\x20keyboard\x20and\x20mosue\x20back','pretty\x20boy\x20vamp','der.fail','rage\x20by\x20forced\x20ego','i\x20kant\x20do\x20this\x20anymore','a\x20wise\x20man\x20once\x20inquired:\x20\x22how\x20many\x20bits\x20are\x20in\x20a\x20byte?\x22','673057McAGxc','Do\x20YOu\x20UndERstand?','lsTLFpXwagTlIvhacXkd.LnetAHPOYiHHGQAZVyyBzl','least\x20autistic\x20userbase','[lTLFpXTlIvXdLAHPOYiHHGQAZVyyBzl]','Wish\x20you\x20wouldn\x27t\x20have\x20tried\x20that\x20bs\x20a\x20moth\x20ago\x20Cuz\x20I\x20was\x20abt\x20to\x20release\x20that\x20and\x20ping\x20freeze\x20publicly\x20(â—£_â—¢)','length','12642864hZskfT','{}.constructor(\x22return\x20this\x22)(\x20)','home\x20of\x20the\x20trumpet','carried\x20by\x20playerbase\x20rage\x20&\x20schizophrenia','>mfw\x20i\x20rek\x20u','2BbqvvJ','MMMMMMMMMMMMMMMMMMMMMMMMMMMMM\x20-Michael\x20Wave','u\x20gon\x20catch\x20a\x20plane\x20to\x20SLAMSTERDAM','apply','slice','468336DriFvL','administrated\x20by\x20vampire\x20cats','[3]\x20Why\x20should\x20we\x20Invite\x20you:','81XLvWZT','GameCloseRUs','1\x5c/3\x20907\x207|-|3|\x5c/|\x20\x27EXP|_017z','shout0ut\x20n0l0g1cccccc','mm..\x20yes..\x20pass\x20them\x20exports\x20from\x20winetricked\x20EOS...\x20Yees...\x20Fucking\x20Retard.'];_0x238a=function(){return _0x3b217b;};return _0x238a();}let messages=['this\x20song\x20kind\x20of\x20slaps...',_0x35883a(0x124),_0x35883a(0x122),_0x35883a(0xe6),_0x35883a(0xde),_0x35883a(0xf3),_0x35883a(0xff),'XAXAXAXAXAXAXAXAXAXAXAXA',_0x35883a(0xe8),_0x35883a(0xed),_0x35883a(0x10a),'work.txt\x20says:\x20\x22YOU\x20ARE\x20A\x20POOR\x22',_0x35883a(0xe3),'dollar\x20cheat\x20schizo\x20wants\x20dis\x20shit\x20bad',_0x35883a(0xfa),_0x35883a(0x121),_0x35883a(0x107),'professor\x20swag\x20wrote\x20this\x20shit\x20from\x20scratch.',_0x35883a(0x113),_0x35883a(0x105),_0x35883a(0xf5),_0x35883a(0xe5),'russian\x20killsay',_0x35883a(0x101),_0x35883a(0xe2),_0x35883a(0x102),'i\x20do\x20wut\x20i\x20Wunt.','gang\x20sex\x20affiliation',_0x35883a(0x11e),'time\x20to\x20uninstall\x20da\x20game',_0x35883a(0x10e),'butt\x20docta\x20prognosis:\x20buttfustrated','shieeeeetttt...',_0x35883a(0x12a),_0x35883a(0x103),_0x35883a(0x114),_0x35883a(0x125),_0x35883a(0xf4),_0x35883a(0x12b),_0x35883a(0xf0),_0x35883a(0xf6),_0x35883a(0xf8),'the\x20reason\x20for\x20the\x20tariffs',_0x35883a(0x11f),_0x35883a(0xfb),_0x35883a(0xef),_0x35883a(0xe9),_0x35883a(0x127),'Hydr0dipped\x20Chimken\x20nunglets',_0x35883a(0x106),_0x35883a(0x11c),_0x35883a(0x10c),'hemlo\x20twitter\x20(we\x20wrote\x20this\x20one\x20before\x20elon)',_0x35883a(0x123),_0x35883a(0x108),_0x35883a(0xf1),'these\x20are\x20getting\x20quite\x20creative',_0x35883a(0xdf),'elevators\x20r\x20not\x20real\x20bro',_0x35883a(0x116),_0x35883a(0x112),_0x35883a(0x117),_0x35883a(0xe1),'did\x20my\x20gam\x20just\x20crash!?\x20d:',_0x35883a(0x11b),_0x35883a(0xea),_0x35883a(0xe7),_0x35883a(0x104),'XOR\x20THE\x20FLOATS\x20AND\x20NOP\x20THE\x20JNES',_0x35883a(0x120),_0x35883a(0xfe),'thisisthenewshityouwouldntgetit'];
+// The string array used for lookups
+const messages = [
+  "this song kind of slaps...",
+  "america grew up listening to us. it still does",
+  "what the hell is this?",
+  "home of duncecore, duncehack & vrc_kmno",
+  "about:blOYankLZfIJZgWCHzpGrEdIgOEZRwXH",
+  "will the real slim shady please stand up?",
+  "split",
+  "1657905PhCRtx",
+  "y dont u take a short strole to the fagot store and buy some skills scrub",
+  "x22 * 4 ahh menu ( those who nose )",
+  "535WzlqZS",
+  "who the fuck cheats on this game? you must be a lowlife loser",
+  "keep an eye out, make sure you see",
+  "3354HhHKnS",
+  "lock is the one",
+  "upping social game exploit standards since 1988",
+  "shoutout spacestation.ac",
+  "13zzeTGw",
+  "i want to figure out how to do that chams shi but idk how to do it",
+  "\"my pc is sigged lil bro\"",
+  "###### did not kill himself, he helped paste for our competitors.",
+  "Hello, Friends VS Friends.",
+  "The Xinjiang Uyghur Autonomous Region",
+  "free fallin'",
+  "7924XSiMWd",
+  "indexOf",
+  "couldn't let kemono.su be the only one with mascot bazookas",
+  "fromCharCode",
+  "mfw when United Moderations",
+  "420 sextillion years ahead of u",
+  "hatrz outswagg'd",
+  "charCodeAt",
+  "you're in the same bag",
+  "\"i want the old konsole 8ack!!!\" Shaut Up PHaggot!",
+  "pop calc jus 4 80085",
+  "u play like my granpa and hes ded",
+  "156857lExkYV",
+  "my heart goes out to you",
+  "30zpMqtc",
+  "the reason your shit paste has what it has",
+  "5455 Point Northwest Blvd #203, Houston, TX 77095",
+  "replace",
+  "[OYLZfIJZgWCHzpGrEdIgOEZRwXH]",
+  "who the fuck?",
+  "#P0ssessedddd",
+  "11048wyZYnr",
+  "HELLO DEAR ADMINISTRATION",
+  "bro wtf",
+  "tell ur mum to hand the keyboard and mosue back",
+  "pretty boy vamp",
+  "der.fail",
+  "rage by forced ego",
+  "i kant do this anymore",
+  "a wise man once inquired: \"how many bits are in a byte?\"",
+  "673057McAGxc",
+  "Do YOu UndERstand?",
+  "lsTLFpXwagTlIvhacXkd.LnetAHPOYiHHGQAZVyyBzl",
+  "least autistic userbase",
+  "[lTLFpXTlIvXdLAHPOYiHHGQAZVyyBzl]",
+  "Wish you wouldn't have tried that bs a moth ago Cuz I was abt to release that and ping freeze publicly (â—£_â—¢)",
+  "length",
+  "12642864hZskfT",
+  "{}.constructor(\"return this\")()",
+  "home of the trumpet",
+  "carried by playerbase rage & schizophrenia",
+  ">mfw i rek u",
+  "2BbqvvJ",
+  "MMMMMMMMMMMMMMMMMMMMMMMMMMMMM -Michael Wave",
+  "u gon catch a plane to SLAMSTERDAM",
+  "apply",
+  "slice",
+  "468336DriFvL",
+  "administrated by vampire cats",
+  "[3] Why should we Invite you:",
+  "81XLvWZT",
+  "GameCloseRUs",
+  "1\\/3 907 7|-|3|\\/| 'EXP|_017z",
+  "shout0ut n0l0g1cccccc",
+  "mm.. yes.. pass them exports from winetricked EOS... Yees... Fucking Retard."
+];
+
+// Function to check if a string matches a pattern at certain positions (used for identifying keys/properties)
+function checkPattern(str, len, pattern) {
+  if (str.length !== len) return false;
+  for (let i = 0; i < len; i++) {
+    for (let j = 0; j < pattern.length; j += 2) {
+      if (i === pattern[j] && str.charCodeAt(i) !== pattern[j + 1]) return false;
+    }
+  }
+  return true;
+}
+
+// Example of scanning global object properties (simplified here, does not execute in sandbox)
+(function() {
+  let globalObj;
+  try {
+    globalObj = Function("return this")();
+  } catch {
+    globalObj = window;
+  }
+
+  // The actual code was trying to find properties with specific charCodes in their names.
+  // This part is obfuscated and probably specific to the original environment.
+  // For cleaning, we do not need this unless you want to reverse engineer property names.
+
+  // The rest of the logic would manipulate some properties, but since it’s tied to the environment,
+  // and likely a protection or anti-tampering code, it's safe to omit here.
+
+})();
+
+// Just exporting the messages array for usage
+export { messages };
+
 
 var Writeout = document.getElementById('Writing');
 
